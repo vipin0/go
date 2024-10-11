@@ -47,6 +47,6 @@ Fortunately only with a precision that's limited to 1 digit.
 AssignTable("Christiane", 27, "Frank", "on the left", 23.7834298)
 // =>
 // Welcome to my party, Christiane!
-// You have been assigned to table 027. Your table is on the left, exactly 23.8 meters from here.
+// You have been assigned to table 027. Your table is left, exactly 23.8 meters from here.
 // You will be sitting next to Frank.
 ```
